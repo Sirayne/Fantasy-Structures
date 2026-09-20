@@ -1,0 +1,41 @@
+Fantasy Structures Individual License v1.0
+
+Copyright © 2026 Sirayne. All rights reserved.
+
+The main purpose of this license is to authorize and manage extended (that is, unusual, non-regular gameplay) use of the assets, structures, music, and code used in this mod for one's own purposes, including distributing my assets under one's own name for one's own purposes (ordinary sharing of structure and music files without the purposes stated in this license is permitted); using the mod's assets for one's own show; use for one's own unauthorized commercial purposes; and similar cases. In any case, the author and the mod do not aim to forbid anything at any cost — if you have an idea for any of the above, you can contact me to negotiate. Contacts and the permission procedure are described at the end of this license.
+
+In turn, the mod is freely available for ordinary and regular gameplay use and is not restricted in any way, except for the cases below:
+
+- Monetized videos and streams about the mod require attribution (that is, stating the mod's name and the author in the description under your video, for example "This video uses the Fantasy Structures Mod by Sirayne")
+- Non-monetized videos and streams may be without attribution, but it is welcomed. Also, monetized videos are understood as videos by creators with a channel of 1000 subscribers or more.
+
+As stated above, if by using my mod you are pursuing your own advanced goals: you have your own server with a concept (ordinary servers with my mod installed do not count), my mod supplementing it, or a show on YouTube (or another platform) that uses my mod as its basis — you are restricted in these endeavors until you have my written permission, which is obtained through dialogue via the contacts listed at the end of this license.
+
+Consequences of violating the license:
+
+- If you meet the requirements for leaving attribution but did not do so — this is considered a minor violation, and you are given a period of 7 days (once this violation is noticed by the mod's author) to fix it. (I will contact you in a reasonable way as a reminder)
+- If you use the mod for your own purposes, use it to supplement your own concept on a server, use it for your own show supplementing it with your own lore (ordinary gameplay with the mod does not count), or for other commercial purposes — without having contacted me — this is a fairly serious violation. You are obligated to immediately stop using the assets as far as possible, hide the video (if applicable) from public access, and continue dialogue with the mod's author until the situation is resolved.
+
+Other information:
+
+This license does not remove the rules and requirements of the licenses provided by Anego Studios, VS ModDB, Vintage Story, along with regard to mandatory rules that cannot be excluded by this license.
+
+This mod is provided "as is" without warranties, despite the author's unofficial commitment to keeping the mod in good order and "as reasonably" compatible with you specifically.
+
+This license is delivered together with the mod in a single archive and applies only to it. The license itself may and is subject to change, without this affecting past versions of the mod.
+
+This license has a term of 5 years, counted from the last update date of this license on GitHub (https://github.com/Sirayne/Fantasy-Structures/commits/main/LICENCE.md), and upon expiration of this term, all assets, code, and music become public domain.
+
+This license permits publishing screenshots without attribution; distributing asset files (structures, music) but not code, and not under one's own name, publicly.
+
+Permission procedure:
+
+If you have contacted me and I have approved your advanced idea for using the mod — I record your name in a special file located on my mod's GitHub (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.md), where I note your username, date, type of permission, monetization allowance, attribution requirement, and other permissions that may lift the restrictions of this license, as well as other non-confidential identifying data (channel links, name, and so on).
+
+You cannot transfer a permission to someone else if it was granted to you personally. A permission of one type, as listed in the permissions file on GitHub (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.md), does not allow you to use the assets under unpermitted uses of another type — violations will be handled according to the "Consequences of violating the license" section.
+
+Contacts:
+
+Using my Discord @sirayne, you can ask me about using my mod for purposes not covered by this license. You can also negotiate there and obtain approval for actions restricted by this license. Importantly, permissions from sources other than the GitHub file (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.md) are not valid. Also, lack of a response does not constitute automatic permission.
+
+As a last resort, I'm leaving here a non-preferred way to reach me, in the form of email - sirayne001@gmail.com

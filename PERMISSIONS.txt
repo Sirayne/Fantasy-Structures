@@ -1,0 +1,22 @@
+This file lists individual permissions granted under section 6 of the Fantasy Structures Individual license.
+
+Each entry applies only to the person it was granted to, and only within the scope described. A permission cannot be transferred to anyone else. If there's no entry - there's no permission.
+
+
+
+Sirayne, 2026-09-19
+Mod version: all versions, no restrictions.
+Permissions: creating monetized content without attribution; any commercial projects based on the mod's content; any distribution for any purpose, including commercial.
+Expiration: none.
+Applies only to: https://www.youtube.com/@Sirayne-VS, https://www.patreon.com/c/sirayne
+
+---
+
+Ashantin, 2026-09-20
+Mod version: 0.1.0-dev.17 and later.
+Permissions: creating monetized content without attribution.
+Expiration: none.
+Applies only to: https://www.youtube.com/@Ashantin3
+
+---
+
