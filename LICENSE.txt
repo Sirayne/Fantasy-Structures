@@ -24,18 +24,18 @@ This mod is provided "as is" without warranties, despite the author's unofficial
 
 This license is delivered together with the mod in a single archive and applies only to it. The license itself may and is subject to change, without this affecting past versions of the mod.
 
-This license has a term of 5 years, counted from the last update date of this license on GitHub (https://github.com/Sirayne/Fantasy-Structures/commits/main/LICENCE.md), and upon expiration of this term, all assets, code, and music become public domain.
+This license has a term of 5 years, counted from the last update date of this license on GitHub (https://github.com/Sirayne/Fantasy-Structures/commits/main/LICENCE.txt), and upon expiration of this term, all assets, code, and music become public domain.
 
 This license permits publishing screenshots without attribution; distributing asset files (structures, music) but not code, and not under one's own name, publicly.
 
 Permission procedure:
 
-If you have contacted me and I have approved your advanced idea for using the mod — I record your name in a special file located on my mod's GitHub (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.md), where I note your username, date, type of permission, monetization allowance, attribution requirement, and other permissions that may lift the restrictions of this license, as well as other non-confidential identifying data (channel links, name, and so on).
+If you have contacted me and I have approved your advanced idea for using the mod — I record your name in a special file located on my mod's GitHub (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.txt), where I note your username, date, type of permission, monetization allowance, attribution requirement, and other permissions that may lift the restrictions of this license, as well as other non-confidential identifying data (channel links, name, and so on).
 
-You cannot transfer a permission to someone else if it was granted to you personally. A permission of one type, as listed in the permissions file on GitHub (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.md), does not allow you to use the assets under unpermitted uses of another type — violations will be handled according to the "Consequences of violating the license" section.
+You cannot transfer a permission to someone else if it was granted to you personally. A permission of one type, as listed in the permissions file on GitHub (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.txt), does not allow you to use the assets under unpermitted uses of another type — violations will be handled according to the "Consequences of violating the license" section.
 
 Contacts:
 
-Using my Discord @sirayne, you can ask me about using my mod for purposes not covered by this license. You can also negotiate there and obtain approval for actions restricted by this license. Importantly, permissions from sources other than the GitHub file (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.md) are not valid. Also, lack of a response does not constitute automatic permission.
+Using my Discord @sirayne, you can ask me about using my mod for purposes not covered by this license. You can also negotiate there and obtain approval for actions restricted by this license. Importantly, permissions from sources other than the GitHub file (https://github.com/Sirayne/Fantasy-Structures/blob/main/PERMISSIONS.txt) are not valid. Also, lack of a response does not constitute automatic permission.
 
 As a last resort, I'm leaving here a non-preferred way to reach me, in the form of email - sirayne001@gmail.com
