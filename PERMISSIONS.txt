@@ -1,4 +1,4 @@
-This file lists individual permissions granted under section 6 of the Fantasy Structures Individual license.
+This file lists individual permissions granted under the Permission procedure of the Fantasy Structures Individual License.
 
 Each entry applies only to the person it was granted to, and only within the scope described. A permission cannot be transferred to anyone else. If there's no entry - there's no permission.
 
